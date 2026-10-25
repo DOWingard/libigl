@@ -1,0 +1,32 @@
+tests/include/igl/cross_field_singularity_index.cpp
+  s_50a5229b464743::t_a44cf16d28d060 355-357
+  s_50a5229b464743::t_7a057b20f368d6 1-354
+  s_50a5229b464743::t_6ea2e7ff683d0d 358-391
+include/igl/find_cross_field_singularities.h
+  s_50a5229b464743::t_245bd2c649140d 50-51
+  s_50a5229b464743::t_5e167a877cc963 15-26,29,33-35,37
+include/igl/cross_field_singularity_index.cpp
+  s_50a5229b464743::t_63bb25aad5bcbf 117-119,122-123
+  s_50a5229b464743::t_b061e451a6e71b 83-84,86
+  s_50a5229b464743::t_5ce09f944886c0 1-76,79-82,85,87-91,94-116,120-121,124-150
+  s_50a5229b464743::t_ecd34ed5bf7365 77-78,92-93
+include/igl/cross_field_singularity_index.h
+  s_50a5229b464743::t_f7c1aeac3f0006 50-54
+  s_50a5229b464743::t_853082bd4fe51d 1-49,55-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d4d96f49bf9e0f3a8dfbd617ba1ca3badfedab4f",
+  "prompts": {},
+  "sessions": {
+    "s_50a5229b464743": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "97dc1681-317d-4cd9-a095-70cf5d860862",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": null
+    }
+  }
+}
